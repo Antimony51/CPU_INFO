@@ -16,7 +16,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace CPU_INFO
+namespace System_INFO
 {
 
     public partial class MainWindow : Window

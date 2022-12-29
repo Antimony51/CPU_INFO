@@ -1,1 +1,1 @@
-ÿþ# CPU_INFO
+#SYSTEM_INFO  

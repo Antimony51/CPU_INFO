@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CPU_INFO/1.0.0": {
+        "runtime": {
+          "CPU_INFO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPU_INFO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
